@@ -4,7 +4,7 @@ I build software and AI systems - from scalable backend applications to
 ML-powered solutions and GenAI applications.
 
 - Currently building: Software, AI/ML & GenAI applications with Python, Java, Spring Boot, RAG and Agentic AI
-- Learning at Production Level: LLMs, embeddings, vector databases, tool calling, AI agents, evaluation & LLM application architecture
+- Learning: LLMs, embeddings, vector databases, tool calling, AI agents, evaluation & LLM application architecture
 - Reach me: [LinkedIn](https://www.linkedin.com/in/bachu-saketh-331275281/) · [GitHub](https://www.github.com/bachusaketh/) · [Email](mailto:sakethbachu8@gmail.com)
 
 ### Software Engineering
